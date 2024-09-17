@@ -17,4 +17,4 @@ jobs:
           sudo apt -y update
       - name: Test Submission
         run: |
-          ./Project_1_Grader_F24/Project_1_Grader_F24 
+          ./Project_1_Grader_F24 
