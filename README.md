@@ -7,7 +7,8 @@ To interact with this toolset, you will need to create an account on GitHub if y
 You may want to create this account using your BYU e-mail address, though that is not necessary.
 
 After creating an account, navigate back to this repository. Then, near the top right of the webpage, click the button "**Use this template**" and select "Create new repository."
-You will then be asked to give the repository a name (e.g. CE_321_F24_Proj1)
+(If you do not see the "Use this template" button, try logging into your GitHub account before navigating to this repository.)
+After selecting "Create new repository," you will then be asked to give the repository a name (e.g. CE_321_F24_Proj1)
 You will also be asked whether to make your repository public or private. **Make your repository private.** If you accidentally make it public, you will need to start over with a private repository.
 
 # Uploading Submission Results
